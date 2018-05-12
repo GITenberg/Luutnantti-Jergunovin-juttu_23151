@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23151#Luutnantti-Jergunovin-juttu
 gutenberg_issued: '2007-10-22'
 gutenberg_type: Text
 identifiers:

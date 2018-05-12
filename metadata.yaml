@@ -1,0 +1,40 @@
+_repo: Luutnantti-Jergunovin-juttu_23151
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Löfgren, Elisabeth
+    alias: Lofgren, Elisabeth
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '24820'
+    url: http://www.gutenberg.org/2009/agents/24820
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    - Toergenev, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2007-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23151'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Short stories'
+title: Luutnantti Jergunovin juttu
+url: http://www.gutenberg.org/ebooks/23151
